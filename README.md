@@ -1,6 +1,8 @@
 ## So_Long
 
-Function that returns a line ending with a newline, read from a file descriptor
+This project is a very small 2D game.
+Its purpose is to make you work with textures, sprites,
+and some other very basic gameplay elements.
 
 ### Compiling
 
